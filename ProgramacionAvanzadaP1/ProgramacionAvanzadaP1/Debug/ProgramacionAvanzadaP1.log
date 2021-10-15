@@ -1,0 +1,20 @@
+﻿  Game.cpp
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(27,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(32,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(37,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Teapot.h(19,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  ProgramacionAvanzadaP1.cpp
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(27,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(32,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(37,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Teapot.h(19,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1.cpp(19,25): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1.cpp(20,27): warning C4305: 'inicializando': truncamiento de 'double' a 'GLclampf'
+  Teapot.cpp
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(27,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(32,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Color.h(37,1): warning C4554: "|": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
+C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Teapot.h(19,8): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Vector3D.cpp
+  Generando código...
+  ProgramacionAvanzadaP1.vcxproj -> C:\Users\l.bouzon.2020\Desktop\ProgramacionAvanzadaP1\ProgramacionAvanzadaP1\Debug\ProgramacionAvanzadaP1.exe
